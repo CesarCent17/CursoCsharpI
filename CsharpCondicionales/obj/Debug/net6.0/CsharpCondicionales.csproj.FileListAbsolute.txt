@@ -1,0 +1,15 @@
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpCondicionales\bin\Debug\net6.0\CsharpCondicionales.exe
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpCondicionales\bin\Debug\net6.0\CsharpCondicionales.deps.json
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpCondicionales\bin\Debug\net6.0\CsharpCondicionales.runtimeconfig.json
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpCondicionales\bin\Debug\net6.0\CsharpCondicionales.dll
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpCondicionales\bin\Debug\net6.0\CsharpCondicionales.pdb
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpCondicionales\obj\Debug\net6.0\CsharpCondicionales.csproj.AssemblyReference.cache
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpCondicionales\obj\Debug\net6.0\CsharpCondicionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpCondicionales\obj\Debug\net6.0\CsharpCondicionales.AssemblyInfoInputs.cache
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpCondicionales\obj\Debug\net6.0\CsharpCondicionales.AssemblyInfo.cs
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpCondicionales\obj\Debug\net6.0\CsharpCondicionales.csproj.CoreCompileInputs.cache
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpCondicionales\obj\Debug\net6.0\CsharpCondicionales.dll
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpCondicionales\obj\Debug\net6.0\refint\CsharpCondicionales.dll
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpCondicionales\obj\Debug\net6.0\CsharpCondicionales.pdb
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpCondicionales\obj\Debug\net6.0\CsharpCondicionales.genruntimeconfig.cache
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpCondicionales\obj\Debug\net6.0\ref\CsharpCondicionales.dll

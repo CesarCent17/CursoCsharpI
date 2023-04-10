@@ -1,0 +1,15 @@
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpCiclos\bin\Debug\net6.0\CsharpCiclos.exe
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpCiclos\bin\Debug\net6.0\CsharpCiclos.deps.json
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpCiclos\bin\Debug\net6.0\CsharpCiclos.runtimeconfig.json
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpCiclos\bin\Debug\net6.0\CsharpCiclos.dll
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpCiclos\bin\Debug\net6.0\CsharpCiclos.pdb
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpCiclos\obj\Debug\net6.0\CsharpCiclos.csproj.AssemblyReference.cache
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpCiclos\obj\Debug\net6.0\CsharpCiclos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpCiclos\obj\Debug\net6.0\CsharpCiclos.AssemblyInfoInputs.cache
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpCiclos\obj\Debug\net6.0\CsharpCiclos.AssemblyInfo.cs
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpCiclos\obj\Debug\net6.0\CsharpCiclos.csproj.CoreCompileInputs.cache
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpCiclos\obj\Debug\net6.0\CsharpCiclos.dll
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpCiclos\obj\Debug\net6.0\refint\CsharpCiclos.dll
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpCiclos\obj\Debug\net6.0\CsharpCiclos.pdb
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpCiclos\obj\Debug\net6.0\CsharpCiclos.genruntimeconfig.cache
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpCiclos\obj\Debug\net6.0\ref\CsharpCiclos.dll

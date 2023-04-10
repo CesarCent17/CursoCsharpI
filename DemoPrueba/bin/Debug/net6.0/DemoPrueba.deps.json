@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DemoPrueba/1.0.0": {
+        "dependencies": {
+          "CursoCsharp": "1.0.0"
+        },
+        "runtime": {
+          "DemoPrueba.dll": {}
+        }
+      },
+      "CursoCsharp/1.0.0": {
+        "runtime": {
+          "CursoCsharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DemoPrueba/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CursoCsharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpExcepciones\bin\Debug\net6.0\CsharpExcepciones.exe
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpExcepciones\bin\Debug\net6.0\CsharpExcepciones.deps.json
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpExcepciones\bin\Debug\net6.0\CsharpExcepciones.runtimeconfig.json
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpExcepciones\bin\Debug\net6.0\CsharpExcepciones.dll
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpExcepciones\bin\Debug\net6.0\CsharpExcepciones.pdb
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpExcepciones\obj\Debug\net6.0\CsharpExcepciones.csproj.AssemblyReference.cache
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpExcepciones\obj\Debug\net6.0\CsharpExcepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpExcepciones\obj\Debug\net6.0\CsharpExcepciones.AssemblyInfoInputs.cache
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpExcepciones\obj\Debug\net6.0\CsharpExcepciones.AssemblyInfo.cs
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpExcepciones\obj\Debug\net6.0\CsharpExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpExcepciones\obj\Debug\net6.0\CsharpExcepciones.dll
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpExcepciones\obj\Debug\net6.0\refint\CsharpExcepciones.dll
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpExcepciones\obj\Debug\net6.0\CsharpExcepciones.pdb
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpExcepciones\obj\Debug\net6.0\CsharpExcepciones.genruntimeconfig.cache
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CsharpExcepciones\obj\Debug\net6.0\ref\CsharpExcepciones.dll

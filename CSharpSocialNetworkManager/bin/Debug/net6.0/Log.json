@@ -1,0 +1,62 @@
+[
+    {
+        "Action": "InicializeSocialNetworks",
+        "LogDate": "2023-04-09T14:22:04.0162705-05:00"
+    },
+    {
+        "Action": "GetSocialNetworkInformation",
+        "LogDate": "2023-04-09T14:22:09.4296831-05:00"
+    },
+    {
+        "Action": "Sequence contains no elements",
+        "LogDate": "2023-04-09T14:22:11.7200991-05:00"
+    },
+    {
+        "Action": "GetSocialNetworkStats",
+        "LogDate": "2023-04-09T14:22:11.7208226-05:00"
+    },
+    {
+        "Action": "InicializeSocialNetworks",
+        "LogDate": "2023-04-09T14:39:52.2812907-05:00"
+    },
+    {
+        "Action": "GetSocialNetworkInformation",
+        "LogDate": "2023-04-09T14:39:57.6677139-05:00"
+    },
+    {
+        "Action": "Sequence contains no elements",
+        "LogDate": "2023-04-09T14:40:01.0501531-05:00"
+    },
+    {
+        "Action": "GetSocialNetworkStats",
+        "LogDate": "2023-04-09T14:40:01.0509985-05:00"
+    },
+    {
+        "Action": "GetSocialNetworkInformation",
+        "LogDate": "2023-04-09T14:40:07.9629634-05:00"
+    },
+    {
+        "Action": "Sequence contains no elements",
+        "LogDate": "2023-04-09T14:40:11.1854645-05:00"
+    },
+    {
+        "Action": "GetSocialNetworkStats",
+        "LogDate": "2023-04-09T14:40:11.1863604-05:00"
+    },
+    {
+        "Action": "InicializeSocialNetworks",
+        "LogDate": "2023-04-09T14:53:28.5927804-05:00"
+    },
+    {
+        "Action": "GetSocialNetworkInformation",
+        "LogDate": "2023-04-09T14:53:31.6929137-05:00"
+    },
+    {
+        "Action": "Sequence contains no elements",
+        "LogDate": "2023-04-09T14:53:33.8783507-05:00"
+    },
+    {
+        "Action": "GetSocialNetworkStats",
+        "LogDate": "2023-04-09T14:53:33.8791966-05:00"
+    }
+]

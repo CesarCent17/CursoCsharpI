@@ -1,0 +1,17 @@
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CSharpSocialNetworkManager\bin\Debug\net6.0\CSharpSocialNetworkManager.exe
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CSharpSocialNetworkManager\bin\Debug\net6.0\CSharpSocialNetworkManager.deps.json
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CSharpSocialNetworkManager\bin\Debug\net6.0\CSharpSocialNetworkManager.runtimeconfig.json
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CSharpSocialNetworkManager\bin\Debug\net6.0\CSharpSocialNetworkManager.dll
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CSharpSocialNetworkManager\bin\Debug\net6.0\CSharpSocialNetworkManager.pdb
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CSharpSocialNetworkManager\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CSharpSocialNetworkManager\obj\Debug\net6.0\CSharpSocialNetworkManager.csproj.AssemblyReference.cache
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CSharpSocialNetworkManager\obj\Debug\net6.0\CSharpSocialNetworkManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CSharpSocialNetworkManager\obj\Debug\net6.0\CSharpSocialNetworkManager.AssemblyInfoInputs.cache
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CSharpSocialNetworkManager\obj\Debug\net6.0\CSharpSocialNetworkManager.AssemblyInfo.cs
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CSharpSocialNetworkManager\obj\Debug\net6.0\CSharpSocialNetworkManager.csproj.CoreCompileInputs.cache
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CSharpSocialNetworkManager\obj\Debug\net6.0\CSharpSocialNetworkManager.csproj.CopyComplete
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CSharpSocialNetworkManager\obj\Debug\net6.0\CSharpSocialNetworkManager.dll
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CSharpSocialNetworkManager\obj\Debug\net6.0\refint\CSharpSocialNetworkManager.dll
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CSharpSocialNetworkManager\obj\Debug\net6.0\CSharpSocialNetworkManager.pdb
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CSharpSocialNetworkManager\obj\Debug\net6.0\CSharpSocialNetworkManager.genruntimeconfig.cache
+C:\Users\CesarCent\Desktop\Carrera C#\Curso 1\project\CursoCsharp\CSharpSocialNetworkManager\obj\Debug\net6.0\ref\CSharpSocialNetworkManager.dll
